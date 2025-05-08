@@ -1,4 +1,3 @@
-# Letty
 Portfolio
 # 👋 Hi, I'm Letty Liu
 
