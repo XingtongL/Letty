@@ -1,4 +1,3 @@
-Portfolio
 # 👋 Hi, I'm Letty Liu
 
 I'm an IT graduate from UNSW with a strong passion for front-end and full-stack development. I love building interactive web applications and continuously improving my skills in JavaScript, React, and Node.js.
